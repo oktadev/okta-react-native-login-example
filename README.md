@@ -2,6 +2,8 @@
  
 This example app shows how to create a React Native application and add Login with Okta.
 
+To see how this example was created, please read [Create a React Native App with Login in 10 Minutes](https://developer.okta.com/blog/2019/11/14/react-native-login).
+
 **Prerequisites:** [Node.js](https://nodejs.org/), [React Native CLI](https://www.npmjs.com/package/react-native-cli), and Xcode (for iOS/Mac) or Android Studio (for Android).
 
 > [Okta](https://developer.okta.com/) has Authentication and User Management APIs that reduce development time with instant-on, scalable user infrastructure. Okta's intuitive API and expert support make it easy for developers to authenticate, manage, and secure users and roles in any application.
@@ -16,8 +18,8 @@ This example app shows how to create a React Native application and add Login wi
 To install this example application, run the following commands:
 
 ```bash
-git clone hhttps://github.com/oktadeveloper/okta-react-native-login-example.git
-cd okta-react-native-login-example
+git clone https://github.com/oktadeveloper/okta-react-native-login-example.git react-native-login
+cd react-native-login
 ```
 
 This will get a copy of the project installed locally.
@@ -80,7 +82,7 @@ This example uses the following libraries:
 
 ## Help
 
-Please post any questions as issues on this project, or visit our [Okta Developer Forums](https://devforum.okta.com/). 
+Please post any questions as comments on [the blog post](https://developer.okta.com/blog/2019/11/14/react-native-login), as issues in this project, or visit our [Okta Developer Forums](https://devforum.okta.com/). 
 
 ## License
 
