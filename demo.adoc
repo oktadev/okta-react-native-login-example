@@ -66,12 +66,14 @@ This is a demo script with the bare-bones steps you need to https://developer.ok
 
   react-native run-android
 
-TIP: You can use a [custom login screen](https://github.com/okta/samples-js-react-native/tree/master/custom-sign-in) with React Native too.
-
 . Finito! 😊
+
+TIP: You can use a [custom login screen](https://github.com/okta/samples-js-react-native/tree/master/custom-sign-in) with React Native too.
 
 == Learn More!
 
 . GitHub repo: https://github.com/oktadeveloper/okta-react-native-login-example
 
 . Blog post: https://developer.okta.com/blog/2019/11/14/react-native-login
+
+. Ignite JHipster: https://github.com/ruddell/ignite-jhipster#readme
