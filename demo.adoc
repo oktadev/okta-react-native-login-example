@@ -28,6 +28,8 @@ This is a demo script with the bare-bones steps you need to https://developer.ok
 
   npm i -g @angular-devkit/schematics-cli@0.803.19
 
+. Create a Native OIDC App in Okta
+
 . Commit to Git and install OktaDev Schematics
 
   npm i -D @oktadev/schematics@1.0.1
