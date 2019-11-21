@@ -70,7 +70,7 @@ This is a demo script with the bare-bones steps you need to https://developer.ok
 
 . Finito! 😊
 
-TIP: You can use a [custom login screen](https://github.com/okta/samples-js-react-native/tree/master/custom-sign-in) with React Native too.
+TIP: You can use a https://github.com/okta/samples-js-react-native/tree/master/custom-sign-in[custom login screen] with React Native too.
 
 == Learn More!
 
