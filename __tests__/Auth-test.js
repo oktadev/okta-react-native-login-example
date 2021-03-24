@@ -135,13 +135,4 @@ describe('authentication flow', () => {
     expect(profileButton.props.title).toBe('Get User From Id Token');
     expect(wrapper.state().context).toContain('"a": "b"');
   });
-
-  it('should return user profile information from getUser method' , async () => {
-    const wrapper = shallow(<Auth />);
-    wrapper.setState({authenticated: true});
-    const profileButton = wrapper.find('Button').get(2);
-    await profileButton.props.onPress();
-    await waitForState(wrapper, state => state.context !== null);
-    expect(profileButton.props.title).toBe('Get User From Request');
-  });
 });
